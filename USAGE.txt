@@ -1,0 +1,2 @@
+Just simply run:
+python src/agent.py HOST PORT

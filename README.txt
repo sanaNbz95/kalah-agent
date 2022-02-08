@@ -1,0 +1,1 @@
+We use alpha-beta pruning algorithm with shallow checker.
