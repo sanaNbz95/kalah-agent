@@ -1,1 +1,1 @@
-We use alpha-beta pruning algorithm with shallow checker.
+Kalah agent with alpha-beta pruning algorithm and shallow checker.
